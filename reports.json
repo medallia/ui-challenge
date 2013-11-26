@@ -1,0 +1,53 @@
+{
+	"reports": [{
+			"id": "1",
+			"name": "Weekly Report",
+			"type": "bar",
+			"size": 12288
+		}, {
+			"id": "2",
+			"name": "Sales Performance by Region",
+			"type": "line",
+			"size": 242688
+		}, {
+			"id": "3",
+			"name": "Revenue",
+			"type": "bar",
+			"size": 1010688
+		}, {
+			"id": "4",
+			"name": "Survey Scores",
+			"type": "grid",
+			"size": 1258291
+		}, {
+			"id": "5",
+			"name": "Sales Data",
+			"type": "line",
+			"size": 21196
+		}, {
+			"id": "6",
+			"name": "Ranked Properties",
+			"type": "bar-stacked",
+			"size": 2422210
+		}, {
+			"id": "7",
+			"name": "Project Plan",
+			"type": "grid",
+			"size": 37888
+		}, {
+			"id": "8",
+			"name": "Operations Forecast",
+			"type": "line",
+			"size": 8294
+		}, {
+			"id": "9",
+			"name": "Operation Costs",
+			"type": "bar-stacked",
+			"size": 9563013
+		}, {
+			"id": "10",
+			"name": "Regional Performance",
+			"type": "bar",
+			"size": 90112
+		}]
+}
