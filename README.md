@@ -1,12 +1,14 @@
 # UI Challenge @ Medallia
 
-The screenshot shows an interface for selecting and downloading reports. Each report has an associated ID, name, type and size (in bytes). The data to use for this challenge is included in the reports.json data file.
+The screenshot shows an interface for selecting and downloading reports. Each report has an associated ID, name, type and size (in bytes).
 
 ![](screenshot.png?raw=true)
 
 ## Instructions
 
 Implement the features below using the included assets. Most of the HTML and CSS assets required have been included for you. You may use whichever open source libraries you feel comfortable with, including jQuery, Backbone and Angular. For this exercise, you will only need to support modern browsers.
+
+The challenge should take on average 2-3 hours. Please record the length of time taken, and submit it to your recruiting contact alongside a zip file containing your solution.
 
 ## Features
 
